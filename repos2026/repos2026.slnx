@@ -2,6 +2,9 @@
   <Folder Name="/01/">
     <Project Path="numeroparoimpar/numeroparoimpar.csproj" />
   </Folder>
+  <Folder Name="/02/">
+    <Project Path="Numeromayor/Numeromayor.csproj" />
+  </Folder>
   <Folder Name="/Shared/">
     <Project Path="Shared/Shared.csproj" />
   </Folder>
