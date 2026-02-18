@@ -5,6 +5,9 @@
   <Folder Name="/02/">
     <Project Path="Numeromayor/Numeromayor.csproj" />
   </Folder>
+  <Folder Name="/03/">
+    <Project Path="ordennumber/ordennumber.csproj" />
+  </Folder>
   <Folder Name="/Shared/">
     <Project Path="Shared/Shared.csproj" />
   </Folder>
