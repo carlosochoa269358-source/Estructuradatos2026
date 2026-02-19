@@ -11,6 +11,9 @@
   <Folder Name="/04/">
     <Project Path="multiplo/multiplo.csproj" />
   </Folder>
+  <Folder Name="/05/">
+    <Project Path="bisiest/bisiest.csproj" />
+  </Folder>
   <Folder Name="/Shared/">
     <Project Path="Shared/Shared.csproj" />
   </Folder>
